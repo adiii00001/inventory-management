@@ -24,7 +24,7 @@ This project is a simple Inventory Management System for an e-commerce platform.
 2. Clone the repository.
 3. Build and run the Docker containers: `docker-compose up`.
 
-Access the API at http://localhost:8000.
+
 
 ## Architectural Decisions
 
